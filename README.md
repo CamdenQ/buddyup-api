@@ -142,7 +142,7 @@ PATCH method to toggle "is_approved" value of signup by id in path
 
 ## Authors
 
-Camden Miller, Kenneth Bice, Matt Patterson, Christopher Bogan, & George Brown
+Camden Miller & Kenneth Bice
 
 ## Technologies
 
@@ -249,7 +249,7 @@ This is what it looks like when an individual request is clicked in the link, sh
 
 ## Authors
 
-Matt Patterson, Camden Miller, Christopher Bogan, Kenneth Bice, & George Brown
+Matt Patterson & Camden Miller
 
 ## Technologies
 
